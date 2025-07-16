@@ -9,7 +9,7 @@
 
 # О проекте
 
-E2E- и API-тесты для микросервиса `health-api` из проекта [health-api-for-microservice-stack](https://gitlab.com/vikgur/health-api-for-microservice-stack).
+E2E- и API-тесты для микросервиса `health-api` из проекта [health-api-for-microservice-stack](https://githab.com/vikgur/health-api-for-microservice-stack).
 
 Проверяется корректность ответов API, взаимодействие с БД и отправка сообщений в Kafka.
 
@@ -29,7 +29,7 @@ E2E- и API-тесты для микросервиса `health-api` из про�
 
 ## Запуск тестов
 
-Перед стартом убедитесь, что у вас в докерах локально поднят весь проект [prod-ready-dockerized-microservice-stack](https://gitlab.com/vikgur/prod-ready-dockerized-microservice-stack)
+Перед стартом убедитесь, что у вас в докерах локально поднят весь проект [prod-ready-dockerized-microservice-stack](https://githab.com/vikgur/prod-ready-dockerized-microservice-stack)
 
 1. Установить зависимости:
 
